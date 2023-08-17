@@ -1,13 +1,16 @@
 # UMass Machine Learning Club
 
-#### The place to learn ML at UMass Amherst. No experience necessary.
+#### The place to learn all about ML at UMass Amherst. No experience necessary.
+![Club Logo](./umass%20ML%20logo.png)
+
 --------------------
 ### Interested? Join Our Socials!
 [![Instagram Logo](./instagram_icon_161086.png)](https://www.instagram.com/umass_mlclub/ "Our Insta")
 [![Discord Logo](./good%20discord%20icon.png)](https://discord.gg/GW5CjNuTNx "Our Discord")
 
-[Contact Us](https://forms.gle/zSJJFD5UMU6yVmYA8)
----------
+#### [Contact Us](https://forms.gle/zSJJFD5UMU6yVmYA8)
+
+---------------
 
 ### Upcoming Events:
 
