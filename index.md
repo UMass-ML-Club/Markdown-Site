@@ -1,18 +1,17 @@
 # UMass Machine Learning Club
 
 #### The place to learn all about ML at UMass Amherst. No experience necessary.
-![Club Logo](./umass%20ML%20logo.png)
 
 --------------------
-### Interested? Join Our Socials!
+## Interested? Join Our Socials!
 [![Instagram Logo](./instagram_icon_161086.png)](https://www.instagram.com/umass_mlclub/ "Our Insta")
 [![Discord Logo](./good%20discord%20icon.png)](https://discord.gg/GW5CjNuTNx "Our Discord")
 
-#### [Contact Us](https://forms.gle/zSJJFD5UMU6yVmYA8)
+### [Contact Us](https://forms.gle/zSJJFD5UMU6yVmYA8)
 
 ---------------
 
-### Upcoming Events:
+## Upcoming Events:
 
 1. **Sep 1 2023, 10:30AM-2PM**, `CS Building`: Find us at the CICS First-Year Undergrad Welcome Event
 2. **Sep 8 2023, 3PM-5PM**, `LGRC`: Find our table at the first CICS Student Organization Friday Event!
@@ -21,13 +20,13 @@
 
 -----------------
 
-### More Info: 
+## More Info: 
 
 * [Beginner Lecture Topics](/lecture_schedule.md)
 
 ----------------
 
-### Our Officers:
+## Our Officers:
 
 **Social Media Manager: `NATHAN WOLF`**
 
