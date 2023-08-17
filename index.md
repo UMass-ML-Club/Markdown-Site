@@ -6,6 +6,7 @@
 [![Instagram Logo](./instagram_icon_161086.png)](https://www.instagram.com/umass_mlclub/ "Our Insta")
 [![Discord Logo](./good%20discord%20icon.png)](https://discord.gg/GW5CjNuTNx "Our Discord")
 
+[Contact Us](https://forms.gle/zSJJFD5UMU6yVmYA8)
 ---------
 
 ### Upcoming Events:
@@ -19,7 +20,7 @@
 
 ### More Info: 
 
-[Beginner Lecture Topics](/lecture_schedule.md)
+* [Beginner Lecture Topics](/lecture_schedule.md)
 
 ----------------
 
