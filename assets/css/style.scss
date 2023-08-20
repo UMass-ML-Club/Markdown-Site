@@ -2,7 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
-
+$body-background: maroon;
 header {
   display: none;
 }
@@ -10,7 +10,10 @@ header {
 h1, h2, h3, h4, h5, h6 {
   color:white;
 }
-
+body {
+  background-color: maroon;
+  background-image: none;
+}
 .container {
   background-color:maroon;
 }
