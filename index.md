@@ -13,8 +13,8 @@
 
 ## Upcoming Events:
 
-1. **Sep 1 2023, 10:30AM-2PM**, `CS Building`: Find us at the CICS First-Year Undergrad Welcome Event
-2. **Sep 8 2023, 3PM-5PM**, `LGRC`: Find our table at the first CICS Student Organization Friday Event!
+1. **Sep 1 2023, 10:30AM-2PM**, **`CS Building`**: Find us at the CICS First-Year Undergrad Welcome Event
+2. **Sep 8 2023, 3PM-5PM**, **`LGRC`**: Find our table at the first CICS Student Organization Friday Event!
 
 **2023-24 MEETING TIMES TBD!!!**
 
