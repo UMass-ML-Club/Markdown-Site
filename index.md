@@ -30,7 +30,7 @@
 
 **Social Media Manager: `NATHAN WOLF`**
 
-Nathan Wolf is the one making this website, a duty that grants him absolute power to determine what is truth and what is fiction. Nathan recently turned 273 years old. Despite his liver having long crumbled into dust, as well as his severely shrunken heart, he was allowed to fly on the first 100 apollo missions. He even stopped Apollo 11 from exploding midflight ~~after he wanted to smoke onboard~~! He has known since the days of Charles Babbage that he was destined to be the one to set the human race free of its mortal coil through the creation of the AI singularity, an opinion that was confirmed several years ago in a visit from the frog-mother during an ayahuasca excursion gone bad. You can reach him at... actually, you can't.
+I'm Nathan Wolf, and I am a Sophomore Computer Science student at UMass, pursuing a minor in linguistics. I have been using code to bring his weirdest ideas to life since 2018. I am also the web manager for the UMass Marching Band, where I play Trombone. I like climate advocacy, and I am doing some other volunteer website work for Biodiversity for a Livable Climate in Cambridge. In my (nonexistent) free time, I am programming a few random things with text processing ML, editing a video, producing music, cooking, or biking.
 
 **President: `RYAN BAHLOUS-BOLDI`** 
 
@@ -41,14 +41,24 @@ Hi! I'm Ryan, a Junior Computer Science student at the University of Massachuset
 
 **Vice-President: `AAADAM LOKHANDWALA`**
 
+I'm a Master's student at UMass Amherst, riding the thrilling currents of Computer Science and delving deep into the captivating world of Data Science. Armed with a blend of Computer Science, Mathematics, and a dash of Business flair, I'm on a determined quest to unveil the secrets of neural networks. I've delved into Neural Architecture, Genetic Algorithms, Recommender System, and more. But hey, I'm not just algorithms and equations – I'm a kitchen virtuoso, conjuring up culinary experiments that might just redefine your taste buds. Beyond coding and cooking, I'm all about crafting fun projects, like training chatbots for chit-chat, transforming cats into dogs (digitally, of course) using Cyclic GANs, and even putting an inventive twist on NFTs.
+
 **Lecturer: `KARTHIK SHANKAR`**
 
 Hello! I'm Karthik, and I love to code and create new things! I've dabbled in Machine Learning recently through Image Classification, created many of my own websites using Next.js, went to NECCDC for a cybersecurity competition, and I dabble in a few hobbies that aren't coding from time to time.
 
 **Lecturer: `RUCHIRA SHARMA`**
 
+*BIO COMING SOON*
+
 **Lecturer: `KIEN TO`**
+
+*BIO COMING SOON*
 
 **Marketing Manager: `HANNA JIANG`**
 
+*BIO COMING SOON*
+
 **Events Coordinator: `PRACHA PROMTHAW`**
+
+Hi! I'm Pracha or you could also call me Kim. I'm a Senior Computer Science student at the University of Massachusetts Amherst. I'm interested in learning about the application of machine learning and how it could make our life easier and more exciting! I am actively conducting research in the areas of information retrieval and natural language processing, but I'm doing some fun project related to computer vision as well.
