@@ -1,6 +1,6 @@
 # UMass Machine Learning Club
 
-#### The place to learn all about ML at UMass Amherst. No experience necessary.
+#### The place to learn all about ML at UMass Amherst. No experience necessary. **We meet on Mondays at 7PM for beginner lectures ILC N151 and Wednesdays at 7 PM for advanced lectures in ILC N151
 
 --------------------
 ## Interested? Join Our Socials!
@@ -13,10 +13,9 @@
 
 ## Upcoming Events:
 
-1. **Sep 1 2023, 10:30AM-2PM**, **`CS Building`**: Find us at the CICS First-Year Undergrad Welcome Event
-2. **Sep 8 2023, 3PM-5PM**, **`LGRC`**: Find our table at the first CICS Student Organization Friday Event!
-
-**2023-24 MEETING TIMES TBD!!!**
+1. **Sep 8 2023, 3PM-5PM**, **`LGRC`**: Find our table at the first CICS Student Organization Friday Event!
+2. **Sep 11 2023, 7PM**, **`ILC N151`**: First beginner lecture: Intro to ML
+3. **Sep 13 2023, 7PM**, **`ILC N151`**: First advanced lecture
 
 -----------------
 
