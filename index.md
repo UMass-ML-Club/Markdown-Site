@@ -13,9 +13,8 @@
 
 ## Upcoming Events:
 
-1. **Sep 8 2023, 3PM-5PM**, **`LGRC`**: Find our table at the first CICS Student Organization Friday Event!
-2. **Sep 11 2023, 7PM**, **`ILC N151`**: First beginner lecture: Intro to ML
-3. **Sep 13 2023, 7PM**, **`ILC N151`**: First advanced lecture
+1. **Sep 13 2023, 7PM**, **`ILC N151`**: First advanced lecture
+2. **Sep 18 2023, 7PM**, **`ILC N151`**: Second Beginner Lecture: Supervised Learning
 
 -----------------
 
@@ -48,15 +47,15 @@ Hello! I'm Karthik, and I love to code and create new things! I've dabbled in Ma
 
 **Lecturer: `RUCHIRA SHARMA`**
 
-*BIO COMING SOON*
+Hi ! I am Ruchira, a master's student in Comp Sci. I was also an undergraduate student here. My interests like in Computer Vision, Machine Learning, Natural Language Processing, Information Retrieval and related fields. Welcome to the Machine Learning community! 
 
 **Lecturer: `KIEN TO`**
 
-*BIO COMING SOON*
+I like Marius
 
 **Marketing Manager: `HANNA JIANG`**
 
-*BIO COMING SOON*
+I exist
 
 **Events Coordinator: `PRACHA PROMTHAW`**
 
