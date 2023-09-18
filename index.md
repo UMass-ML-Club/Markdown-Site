@@ -13,8 +13,8 @@
 
 ## Upcoming Events:
 
-1. **Sep 18 2023, 7PM**, **`ILC N151`**: Second Beginner Lecture: Supervised Learning
-2. **Sep 20 2023, 7PM**, **ROOM TBD (probably ILC N151)**: Second Advanced Lecture
+1. **Sep 20 2023, 7PM**, **ROOM TBD (probably ILC N155)**: Second Advanced Lecture
+2. **Sep 25 2023, 7PM**, **`ROOM TBD (in ILC)`**: Third Beginner Lecture: Advanced Regression
 
 -----------------
 
