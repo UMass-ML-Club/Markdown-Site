@@ -13,7 +13,7 @@
 
 ## Upcoming Events:
 
-1. **Sep 20 2023, 7PM**, **ROOM TBD (probably ILC N155)**: Second Advanced Lecture
+1. **Sep 20 2023, 7PM**, **ILC S101**: Second Advanced Lecture
 2. **Sep 25 2023, 7PM**, **`ROOM TBD (in ILC)`**: Third Beginner Lecture: Advanced Regression
 
 -----------------
