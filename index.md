@@ -1,6 +1,6 @@
 # UMass Machine Learning Club
 
-#### The place to learn all about ML at UMass Amherst. No experience necessary. **We meet on Mondays at 7PM for beginner lectures ILC N151 and Wednesdays at 7 PM for advanced lectures in ILC N151
+#### The place to learn all about ML at UMass Amherst. No experience necessary. **We meet in the ILC on Mondays at 7PM for beginner lectures and Wednesdays at 7 PM for advanced lectures**
 
 --------------------
 ## Interested? Join Our Socials!
@@ -14,7 +14,8 @@
 ## Upcoming Events:
 
 2. **Sep 25 2023, 7PM**, **`ILC S140`**: Third Beginner Lecture: Advanced Regression
-3. **Sep 27 2023, 7PM**, **`ROOM TBD (In ILC)`**: Third Advanced Lecture: TBD
+3. **Sep 27 2023, 7PM**, **`ROOM TBD (In ILC)`**: Third Advanced Lecture: `DISCount: Counting in Large Image Collections with Detector-Based Importance Sampling" paper from 
+Gustavo Perez Sarabia`
 
 -----------------
 
