@@ -6,8 +6,8 @@
 |-------|-----|----|-----------
 |1|Intro to ML|Ryan|Fundamentals, Types, and Applications of ML
 |2|Supervised Learning|Aadam|Supervised Learning, Linear Regression, Single Perceptron
-|3|Advanced Regression|Aadam|Multi-Layer Perceptrons, Nonlinear Regression, Activation Functions
 |4|Math of ML|Aadam|Linear Algebra, Calculus, Backpropagation, Gradient Optimizers
+|3|Advanced Regression|Suryam|Multi-Layer Perceptrons, Nonlinear Regression, Activation Functions
 |5|Python for ML|Karthik & Ruchira|NumPy, Pandas, PyTorch, Hugging Face
 |6|Image Classification|Karthik & Kien|ConvNet, Classification Loss, Other Neural Network (NN) Models
 |7|Reinforcement Learning|Aadam|Q-Learning, Tabular Reinforcement, Function Approximation
