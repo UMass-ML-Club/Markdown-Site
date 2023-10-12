@@ -13,9 +13,7 @@
 
 ## Upcoming Events:
 
-1. **Sep 27 2023, 7PM**, **`ILC N101`**: Third Advanced Lecture: `DISCount: Counting in Large Image Collections with Detector-Based Importance Sampling" paper from 
-Gustavo Perez Sarabia`
-2. **Oct 2 2023, 7PM**, **`ILC S140`**: Beginner Lecture: Advanced Regression
+1. **Oct 16 2023, 7PM**, **`ILC S140`**: Beginner Lecture: `NumPy, Pandas, PyTorch, Hugging Face`
 
 -----------------
 
