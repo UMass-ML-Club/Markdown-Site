@@ -14,6 +14,7 @@
 ## Upcoming Events:
 
 1. **Oct 16 2023, 7PM**, **`ILC S140`**: Beginner Lecture: `NumPy, Pandas, PyTorch, Hugging Face`
+2. **Oct 18 2023, 7PM**, **`ILC ROOM TBD`**: Advanced Lecture: `NLP (Paper TBD)`
 
 -----------------
 
