@@ -9,7 +9,7 @@
 |4|Math of ML|Aadam|Linear Algebra, Calculus, Backpropagation, Gradient Optimizers
 |3|Advanced Regression|Suryam|Multi-Layer Perceptrons, Nonlinear Regression, Activation Functions
 |5|Python for ML|Karthik & Ruchira|NumPy, Pandas, PyTorch, Hugging Face
-|6|Image Classification|Karthik & Kien|ConvNet, Classification Loss, Other Neural Network (NN) Models
+|6|Computer Vision|Karthik & Kien|ConvNet, Classification Loss, Other Neural Network (NN) Models
 |7|Reinforcement Learning|Aadam|Q-Learning, Tabular Reinforcement, Function Approximation
 |8|Deep Reinforcement Learning|Ryan|Deep-Q Network, Proximal Policy Optimization
 |9|Generative Machine Learning|Aadam & Kien|Variational Autoencoders, Generative Adversarial Networks
