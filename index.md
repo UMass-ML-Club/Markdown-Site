@@ -14,7 +14,7 @@
 ## Upcoming Events:
 
 1. **Oct 25 2023, 7PM**, **`ILC N101`**: Advanced Lecture: `TBD`
-2. **Oct 31 2023, 7PM**, **`ILC S140`**: Beginner Lecture: `Generative AI`
+2. **Oct 31 2023, 7PM**, **`ILC S140`**: Beginner Lecture: `"Deep Learning Models for Irregularly Sampled and Multi-rate Time-Series Datasets"`
 
 -----------------
 
